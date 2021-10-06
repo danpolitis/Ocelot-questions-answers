@@ -1,5 +1,5 @@
 const server = require('./server');
-const PORT = 3003;
+const PORT = 3000;
 const pool = require('../db');
 
 pool.connect((err) => {

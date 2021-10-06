@@ -1,5 +1,6 @@
 const express = require('express');
 const morgan = require('morgan');
+const loaderio = require('../')
 
 const server = express()
 const routes = require('./routes')
