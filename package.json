@@ -2,7 +2,7 @@
   "name": "questions-answers",
   "version": "1.0.0",
   "description": "",
-  "main": "csvParser.js",
+  "main": "server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
